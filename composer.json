@@ -15,7 +15,6 @@
     "illuminate/contracts": ">=5.1.0",
     "illuminate/support": ">=5.1.0",
     "nesbot/carbon": "^2.22",
-    "laravel/echo": "^1.15.0",
     "pusher/pusher-php-server": "^5.0",
     "predis/predis": "~1.1.1",
     "mpratt/embera": "^1.9"
