@@ -1,6 +1,8 @@
 {
     "name": "deepayan/laraspeak",
     "description": "laraspeak is a Laravel based realtime messaging, chatting and conversation system. It helps to develop users messaging, chatting and conversations in easy way.",
+    "version": "1.0.0",
+    "type": "library",
     "keywords": ["message", "inbox", "conversations", "chat", "php", "laravel", "realtime", "real-time"],
     "homepage": "https://github.com/DeepayanMallick/laraspeak",
     "license": "MIT",
